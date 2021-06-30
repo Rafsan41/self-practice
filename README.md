@@ -1,1 +1,1 @@
-# self-practicr
+# self-practice
